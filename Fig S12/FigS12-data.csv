@@ -1,0 +1,385 @@
+Environment,Ancestor,Mutation,Marked_type,Resistance,scaledfit
+LB,MG1655,none,Isogenic,none,1
+LB,OLC682,none,Isogenic,none,1
+LB,OLC809,none,Common,none,1
+LB,OLC969,none,Isogenic,none,1
+LB,PB1,none,Isogenic,none,1
+LB,PB10,none,Common,none,1
+LB,PB13,none,Isogenic,none,1
+LB,PB15,none,Isogenic,none,1
+LB,PB2,none,Common,none,1
+LB,PB4,none,Isogenic,none,1
+LB,PB5,none,Common,none,1
+LB,PB6,none,Common,none,1
+LB,MG1655,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.918026148
+LB,OLC682,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,1.006071363
+LB,OLC809,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.99166745
+LB,OLC969,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.975568711
+LB,PB1,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.994658223
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+LB,PB2,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.967679158
+LB,PB4,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.995133686
+LB,PB5,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.999270535
+LB,PB6,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.998297103
+LB,MG1655,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.875706786
+LB,OLC682,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.85163214
+LB,OLC809,gyrB_D426N,Common,Fluoroquinolone resistance,0.954686162
+NA,NA,NA,NA,NA,NA
+LB,PB1,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.897947828
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+LB,PB2,gyrB_D426N,Common,Fluoroquinolone resistance,1.0113415
+LB,PB4,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.910992874
+LB,PB5,gyrB_D426N,Common,Fluoroquinolone resistance,1.054639831
+NA,NA,NA,NA,NA,NA
+LB,MG1655,marR_R77H,Isogenic,Fluoroquinolone resistance,0.998120269
+LB,OLC682,marR_R77H,Isogenic,Fluoroquinolone resistance,0.978206455
+LB,OLC809,marR_R77H,Common,Fluoroquinolone resistance,0.957685678
+LB,OLC969,marR_R77H,Isogenic,Fluoroquinolone resistance,0.964948038
+LB,PB1,marR_R77H,Isogenic,Fluoroquinolone resistance,0.99213482
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+LB,PB2,marR_R77H,Common,Fluoroquinolone resistance,1.005824889
+LB,PB4,marR_R77H,Isogenic,Fluoroquinolone resistance,0.931731812
+LB,PB5,marR_R77H,Common,Fluoroquinolone resistance,1.030652065
+LB,PB6,marR_R77H,Common,Fluoroquinolone resistance,0.985682422
+LB,MG1655,rpoB_H526Y,Isogenic,Rifampicin resistance,0.909920383
+LB,OLC682,rpoB_H526Y,Isogenic,Rifampicin resistance,0.831478984
+LB,OLC809,rpoB_H526Y,Common,Rifampicin resistance,0.971068821
+LB,OLC969,rpoB_H526Y,Isogenic,Rifampicin resistance,0.969309385
+LB,PB1,rpoB_H526Y,Isogenic,Rifampicin resistance,0.84149088
+LB,PB10,rpoB_H526Y,Common,Rifampicin resistance,0.93930539
+LB,PB13,rpoB_H526Y,Isogenic,Rifampicin resistance,0.828926455
+LB,PB15,rpoB_H526Y,Isogenic,Rifampicin resistance,0.801633381
+LB,PB2,rpoB_H526Y,Common,Rifampicin resistance,1.014894236
+LB,PB4,rpoB_H526Y,Isogenic,Rifampicin resistance,0.979999387
+LB,PB5,rpoB_H526Y,Common,Rifampicin resistance,0.976276274
+LB,PB6,rpoB_H526Y,Common,Rifampicin resistance,0.912280104
+LB,MG1655,rpoB_S531L,Isogenic,Rifampicin resistance,0.800753039
+LB,OLC682,rpoB_S531L,Isogenic,Rifampicin resistance,0.859874509
+LB,OLC809,rpoB_S531L,Common,Rifampicin resistance,0.909175601
+LB,OLC969,rpoB_S531L,Isogenic,Rifampicin resistance,0.899619836
+NA,NA,NA,NA,NA,NA
+LB,PB10,rpoB_S531L,Common,Rifampicin resistance,0.879398107
+LB,PB13,rpoB_S531L,Isogenic,Rifampicin resistance,0.792290492
+LB,PB15,rpoB_S531L,Isogenic,Rifampicin resistance,0.876907482
+LB,PB2,rpoB_S531L,Common,Rifampicin resistance,0.89997652
+NA,NA,NA,NA,NA,NA
+LB,PB5,rpoB_S531L,Common,Rifampicin resistance,0.952126078
+LB,PB6,rpoB_S531L,Common,Rifampicin resistance,1.014976474
+LB,MG1655,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.973752883
+LB,OLC682,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.970107275
+LB,OLC809,rpsL_K43R,Common,Aminoglycoside resistance,0.999795182
+NA,NA,NA,NA,NA,NA
+LB,PB1,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.001963288
+LB,PB10,rpsL_K43R,Common,Aminoglycoside resistance,0.978725361
+LB,PB13,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.977984153
+LB,PB15,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.971775157
+LB,PB2,rpsL_K43R,Common,Aminoglycoside resistance,0.961400406
+LB,PB4,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.991813859
+LB,PB5,rpsL_K43R,Common,Aminoglycoside resistance,1.043423965
+NA,NA,NA,NA,NA,NA
+LB,MG1655,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.867644807
+LB,OLC682,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.749976907
+LB,OLC809,rpsL_K43T,Common,Aminoglycoside resistance,0.947601389
+NA,NA,NA,NA,NA,NA
+LB,PB1,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.92415837
+LB,PB10,rpsL_K43T,Common,Aminoglycoside resistance,0.957983821
+LB,PB13,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.851029051
+LB,PB15,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.854507093
+LB,PB2,rpsL_K43T,Common,Aminoglycoside resistance,0.948397796
+LB,PB4,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.922094015
+LB,PB5,rpsL_K43T,Common,Aminoglycoside resistance,0.95559069
+NA,NA,NA,NA,NA,NA
+M9-Glucose,MG1655,none,Isogenic,none,1
+M9-Glucose,OLC682,none,Isogenic,none,1
+M9-Glucose,OLC809,none,Common,none,1
+M9-Glucose,OLC969,none,Isogenic,none,1
+M9-Glucose,PB1,none,Isogenic,none,1
+M9-Glucose,PB10,none,Common,none,1
+M9-Glucose,PB13,none,Isogenic,none,1
+M9-Glucose,PB15,none,Isogenic,none,1
+M9-Glucose,PB2,none,Common,none,1
+M9-Glucose,PB4,none,Isogenic,none,1
+M9-Glucose,PB5,none,Common,none,1
+M9-Glucose,PB6,none,Common,none,1
+M9-Glucose,MG1655,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.956990092
+M9-Glucose,OLC682,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.688071029
+M9-Glucose,OLC809,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.984416752
+M9-Glucose,OLC969,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,1.001067314
+M9-Glucose,PB1,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.99068602
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB2,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.985228344
+M9-Glucose,PB4,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,1.010826307
+M9-Glucose,PB5,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.97605214
+M9-Glucose,PB6,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.997404787
+M9-Glucose,MG1655,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.947503102
+M9-Glucose,OLC682,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.632461314
+M9-Glucose,OLC809,gyrB_D426N,Common,Fluoroquinolone resistance,0.901855581
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB1,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.887442164
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB2,gyrB_D426N,Common,Fluoroquinolone resistance,0.937873368
+M9-Glucose,PB4,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.905450068
+M9-Glucose,PB5,gyrB_D426N,Common,Fluoroquinolone resistance,0.866907761
+NA,NA,NA,NA,NA,NA
+M9-Glucose,MG1655,marR_R77H,Isogenic,Fluoroquinolone resistance,0.994820256
+M9-Glucose,OLC682,marR_R77H,Isogenic,Fluoroquinolone resistance,0.810099864
+M9-Glucose,OLC809,marR_R77H,Common,Fluoroquinolone resistance,0.97700291
+M9-Glucose,OLC969,marR_R77H,Isogenic,Fluoroquinolone resistance,1.008666832
+M9-Glucose,PB1,marR_R77H,Isogenic,Fluoroquinolone resistance,0.990990551
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB2,marR_R77H,Common,Fluoroquinolone resistance,0.991077348
+M9-Glucose,PB4,marR_R77H,Isogenic,Fluoroquinolone resistance,0.982194518
+M9-Glucose,PB5,marR_R77H,Common,Fluoroquinolone resistance,1.022167149
+M9-Glucose,PB6,marR_R77H,Common,Fluoroquinolone resistance,0.982766014
+M9-Glucose,MG1655,rpoB_H526Y,Isogenic,Rifampicin resistance,1.098338654
+M9-Glucose,OLC682,rpoB_H526Y,Isogenic,Rifampicin resistance,0.747741257
+M9-Glucose,OLC809,rpoB_H526Y,Common,Rifampicin resistance,0.998410128
+M9-Glucose,OLC969,rpoB_H526Y,Isogenic,Rifampicin resistance,0.977566601
+M9-Glucose,PB1,rpoB_H526Y,Isogenic,Rifampicin resistance,0.897717943
+M9-Glucose,PB10,rpoB_H526Y,Common,Rifampicin resistance,1.024216439
+M9-Glucose,PB13,rpoB_H526Y,Isogenic,Rifampicin resistance,0.89506969
+M9-Glucose,PB15,rpoB_H526Y,Isogenic,Rifampicin resistance,0.984209561
+M9-Glucose,PB2,rpoB_H526Y,Common,Rifampicin resistance,1.061658725
+M9-Glucose,PB4,rpoB_H526Y,Isogenic,Rifampicin resistance,0.910356642
+M9-Glucose,PB5,rpoB_H526Y,Common,Rifampicin resistance,0.797429633
+M9-Glucose,PB6,rpoB_H526Y,Common,Rifampicin resistance,0.953298266
+M9-Glucose,MG1655,rpoB_S531L,Isogenic,Rifampicin resistance,0.868709884
+M9-Glucose,OLC682,rpoB_S531L,Isogenic,Rifampicin resistance,1.07325241
+M9-Glucose,OLC809,rpoB_S531L,Common,Rifampicin resistance,0.888404027
+M9-Glucose,OLC969,rpoB_S531L,Isogenic,Rifampicin resistance,0.88450423
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB10,rpoB_S531L,Common,Rifampicin resistance,0.951579949
+M9-Glucose,PB13,rpoB_S531L,Isogenic,Rifampicin resistance,0.849709678
+M9-Glucose,PB15,rpoB_S531L,Isogenic,Rifampicin resistance,0.915076707
+M9-Glucose,PB2,rpoB_S531L,Common,Rifampicin resistance,0.931768527
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB5,rpoB_S531L,Common,Rifampicin resistance,0.983681698
+M9-Glucose,PB6,rpoB_S531L,Common,Rifampicin resistance,0.985820791
+M9-Glucose,MG1655,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.955620235
+M9-Glucose,OLC682,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.98794039
+M9-Glucose,OLC809,rpsL_K43R,Common,Aminoglycoside resistance,0.959634845
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB1,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.941629338
+M9-Glucose,PB10,rpsL_K43R,Common,Aminoglycoside resistance,0.976763426
+M9-Glucose,PB13,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.014076108
+M9-Glucose,PB15,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.967669849
+M9-Glucose,PB2,rpsL_K43R,Common,Aminoglycoside resistance,1.017477828
+M9-Glucose,PB4,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.989249515
+M9-Glucose,PB5,rpsL_K43R,Common,Aminoglycoside resistance,0.913912862
+NA,NA,NA,NA,NA,NA
+M9-Glucose,MG1655,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.860801914
+M9-Glucose,OLC682,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.806872066
+M9-Glucose,OLC809,rpsL_K43T,Common,Aminoglycoside resistance,0.931065018
+NA,NA,NA,NA,NA,NA
+M9-Glucose,PB1,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.851303831
+M9-Glucose,PB10,rpsL_K43T,Common,Aminoglycoside resistance,0.974214897
+M9-Glucose,PB13,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.930237192
+M9-Glucose,PB15,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.861114047
+M9-Glucose,PB2,rpsL_K43T,Common,Aminoglycoside resistance,0.908410191
+M9-Glucose,PB4,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.876703696
+M9-Glucose,PB5,rpsL_K43T,Common,Aminoglycoside resistance,0.779618628
+NA,NA,NA,NA,NA,NA
+Urine,MG1655,none,Isogenic,none,1
+Urine,OLC682,none,Isogenic,none,1
+Urine,OLC809,none,Common,none,1
+Urine,OLC969,none,Isogenic,none,1
+Urine,PB1,none,Isogenic,none,1
+Urine,PB10,none,Common,none,1
+Urine,PB13,none,Isogenic,none,1
+Urine,PB15,none,Isogenic,none,1
+Urine,PB2,none,Common,none,1
+Urine,PB4,none,Isogenic,none,1
+Urine,PB5,none,Common,none,1
+Urine,PB6,none,Common,none,1
+Urine,MG1655,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.941817629
+Urine,OLC682,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.405900116
+Urine,OLC809,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.983405658
+Urine,OLC969,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.486371232
+Urine,PB1,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.941944486
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+Urine,PB2,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.94549002
+Urine,PB4,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.85458749
+Urine,PB5,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,1.02708806
+Urine,PB6,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.995918018
+Urine,MG1655,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.904747051
+Urine,OLC682,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.363942514
+Urine,OLC809,gyrB_D426N,Common,Fluoroquinolone resistance,0.982651718
+NA,NA,NA,NA,NA,NA
+Urine,PB1,gyrB_D426N,Isogenic,Fluoroquinolone resistance,1.101669167
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+Urine,PB2,gyrB_D426N,Common,Fluoroquinolone resistance,0.973608663
+Urine,PB4,gyrB_D426N,Isogenic,Fluoroquinolone resistance,1.211740451
+Urine,PB5,gyrB_D426N,Common,Fluoroquinolone resistance,1.057151411
+NA,NA,NA,NA,NA,NA
+Urine,MG1655,marR_R77H,Isogenic,Fluoroquinolone resistance,1.037551641
+Urine,OLC682,marR_R77H,Isogenic,Fluoroquinolone resistance,0.395332042
+Urine,OLC809,marR_R77H,Common,Fluoroquinolone resistance,0.985461127
+Urine,OLC969,marR_R77H,Isogenic,Fluoroquinolone resistance,1.012669943
+Urine,PB1,marR_R77H,Isogenic,Fluoroquinolone resistance,0.935394231
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+Urine,PB2,marR_R77H,Common,Fluoroquinolone resistance,0.953444286
+Urine,PB4,marR_R77H,Isogenic,Fluoroquinolone resistance,0.995773671
+Urine,PB5,marR_R77H,Common,Fluoroquinolone resistance,1.02538575
+Urine,PB6,marR_R77H,Common,Fluoroquinolone resistance,0.998642638
+Urine,MG1655,rpoB_H526Y,Isogenic,Rifampicin resistance,1.03336767
+Urine,OLC682,rpoB_H526Y,Isogenic,Rifampicin resistance,1.050177085
+Urine,OLC809,rpoB_H526Y,Common,Rifampicin resistance,0.931828694
+Urine,OLC969,rpoB_H526Y,Isogenic,Rifampicin resistance,0.989159172
+Urine,PB1,rpoB_H526Y,Isogenic,Rifampicin resistance,0.651410122
+Urine,PB10,rpoB_H526Y,Common,Rifampicin resistance,1.071251196
+Urine,PB13,rpoB_H526Y,Isogenic,Rifampicin resistance,1.154915304
+Urine,PB15,rpoB_H526Y,Isogenic,Rifampicin resistance,1.051628952
+Urine,PB2,rpoB_H526Y,Common,Rifampicin resistance,1.007505695
+Urine,PB4,rpoB_H526Y,Isogenic,Rifampicin resistance,1.097468818
+Urine,PB5,rpoB_H526Y,Common,Rifampicin resistance,1.025861338
+Urine,PB6,rpoB_H526Y,Common,Rifampicin resistance,0.997904613
+Urine,MG1655,rpoB_S531L,Isogenic,Rifampicin resistance,0.768343491
+Urine,OLC682,rpoB_S531L,Isogenic,Rifampicin resistance,0.869170896
+Urine,OLC809,rpoB_S531L,Common,Rifampicin resistance,0.875348707
+Urine,OLC969,rpoB_S531L,Isogenic,Rifampicin resistance,0.816183628
+NA,NA,NA,NA,NA,NA
+Urine,PB10,rpoB_S531L,Common,Rifampicin resistance,0.794979135
+Urine,PB13,rpoB_S531L,Isogenic,Rifampicin resistance,1.047411929
+Urine,PB15,rpoB_S531L,Isogenic,Rifampicin resistance,0.713109873
+Urine,PB2,rpoB_S531L,Common,Rifampicin resistance,0.812047925
+NA,NA,NA,NA,NA,NA
+Urine,PB5,rpoB_S531L,Common,Rifampicin resistance,0.919319807
+Urine,PB6,rpoB_S531L,Common,Rifampicin resistance,0.961506652
+Urine,MG1655,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.040119812
+Urine,OLC682,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.090688165
+Urine,OLC809,rpsL_K43R,Common,Aminoglycoside resistance,0.973138208
+NA,NA,NA,NA,NA,NA
+Urine,PB1,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.815701659
+Urine,PB10,rpsL_K43R,Common,Aminoglycoside resistance,0.974745161
+Urine,PB13,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.919727264
+Urine,PB15,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.004427389
+Urine,PB2,rpsL_K43R,Common,Aminoglycoside resistance,0.968537629
+Urine,PB4,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.07397214
+Urine,PB5,rpsL_K43R,Common,Aminoglycoside resistance,1.010000592
+NA,NA,NA,NA,NA,NA
+Urine,MG1655,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.953173123
+Urine,OLC682,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.524619052
+Urine,OLC809,rpsL_K43T,Common,Aminoglycoside resistance,0.57733702
+NA,NA,NA,NA,NA,NA
+Urine,PB1,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.74767493
+Urine,PB10,rpsL_K43T,Common,Aminoglycoside resistance,0.968290828
+Urine,PB13,rpsL_K43T,Isogenic,Aminoglycoside resistance,1.065354797
+Urine,PB15,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.776500871
+Urine,PB2,rpsL_K43T,Common,Aminoglycoside resistance,0.750369525
+Urine,PB4,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.693515993
+Urine,PB5,rpsL_K43T,Common,Aminoglycoside resistance,0.738548617
+NA,NA,NA,NA,NA,NA
+Colon,MG1655,none,Isogenic,none,1
+Colon,OLC682,none,Isogenic,none,1
+Colon,OLC809,none,Common,none,1
+Colon,OLC969,none,Isogenic,none,1
+Colon,PB1,none,Isogenic,none,1
+Colon,PB10,none,Common,none,1
+Colon,PB13,none,Isogenic,none,1
+Colon,PB15,none,Isogenic,none,1
+Colon,PB2,none,Common,none,1
+Colon,PB4,none,Isogenic,none,1
+Colon,PB5,none,Common,none,1
+Colon,PB6,none,Common,none,1
+Colon,MG1655,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.98270398
+Colon,OLC682,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,0.979382824
+Colon,OLC809,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.989347023
+Colon,OLC969,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,1.078253985
+Colon,PB1,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,1.250686185
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+Colon,PB2,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,1.034424666
+Colon,PB4,gyrA_S83L_D87N,Isogenic,Fluoroquinolone resistance,1.019472637
+Colon,PB5,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.948187465
+Colon,PB6,gyrA_S83L_D87N,Common,Fluoroquinolone resistance,0.954548637
+Colon,MG1655,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.828325849
+Colon,OLC682,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.666638903
+Colon,OLC809,gyrB_D426N,Common,Fluoroquinolone resistance,0.867269063
+NA,NA,NA,NA,NA,NA
+Colon,PB1,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.849993602
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+Colon,PB2,gyrB_D426N,Common,Fluoroquinolone resistance,0.777613556
+Colon,PB4,gyrB_D426N,Isogenic,Fluoroquinolone resistance,0.724441602
+Colon,PB5,gyrB_D426N,Common,Fluoroquinolone resistance,0.837581531
+NA,NA,NA,NA,NA,NA
+Colon,MG1655,marR_R77H,Isogenic,Fluoroquinolone resistance,0.997933441
+Colon,OLC682,marR_R77H,Isogenic,Fluoroquinolone resistance,1.020090281
+Colon,OLC809,marR_R77H,Common,Fluoroquinolone resistance,1.035909485
+Colon,OLC969,marR_R77H,Isogenic,Fluoroquinolone resistance,1.235390048
+Colon,PB1,marR_R77H,Isogenic,Fluoroquinolone resistance,1.367480811
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+Colon,PB2,marR_R77H,Common,Fluoroquinolone resistance,1.035035311
+Colon,PB4,marR_R77H,Isogenic,Fluoroquinolone resistance,1.117324864
+Colon,PB5,marR_R77H,Common,Fluoroquinolone resistance,1.043905568
+Colon,PB6,marR_R77H,Common,Fluoroquinolone resistance,0.957997117
+Colon,MG1655,rpoB_H526Y,Isogenic,Rifampicin resistance,0.75707808
+Colon,OLC682,rpoB_H526Y,Isogenic,Rifampicin resistance,0.686419708
+Colon,OLC809,rpoB_H526Y,Common,Rifampicin resistance,0.841408642
+Colon,OLC969,rpoB_H526Y,Isogenic,Rifampicin resistance,0.869099658
+Colon,PB1,rpoB_H526Y,Isogenic,Rifampicin resistance,1.18874733
+Colon,PB10,rpoB_H526Y,Common,Rifampicin resistance,0.742411279
+Colon,PB13,rpoB_H526Y,Isogenic,Rifampicin resistance,0.975115337
+Colon,PB15,rpoB_H526Y,Isogenic,Rifampicin resistance,0.878709999
+Colon,PB2,rpoB_H526Y,Common,Rifampicin resistance,0.824465215
+Colon,PB4,rpoB_H526Y,Isogenic,Rifampicin resistance,0.93489537
+Colon,PB5,rpoB_H526Y,Common,Rifampicin resistance,0.804492362
+Colon,PB6,rpoB_H526Y,Common,Rifampicin resistance,0.770544007
+Colon,MG1655,rpoB_S531L,Isogenic,Rifampicin resistance,0.909391244
+Colon,OLC682,rpoB_S531L,Isogenic,Rifampicin resistance,0.924657509
+Colon,OLC809,rpoB_S531L,Common,Rifampicin resistance,0.754190047
+Colon,OLC969,rpoB_S531L,Isogenic,Rifampicin resistance,0.951525691
+NA,NA,NA,NA,NA,NA
+Colon,PB10,rpoB_S531L,Common,Rifampicin resistance,0.905827386
+Colon,PB13,rpoB_S531L,Isogenic,Rifampicin resistance,0.813363821
+Colon,PB15,rpoB_S531L,Isogenic,Rifampicin resistance,1.007693637
+Colon,PB2,rpoB_S531L,Common,Rifampicin resistance,0.910905952
+NA,NA,NA,NA,NA,NA
+Colon,PB5,rpoB_S531L,Common,Rifampicin resistance,0.92593579
+Colon,PB6,rpoB_S531L,Common,Rifampicin resistance,0.848126241
+Colon,MG1655,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.122064275
+Colon,OLC682,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.906880434
+Colon,OLC809,rpsL_K43R,Common,Aminoglycoside resistance,0.867483863
+NA,NA,NA,NA,NA,NA
+Colon,PB1,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.205016438
+Colon,PB10,rpsL_K43R,Common,Aminoglycoside resistance,0.990936253
+Colon,PB13,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.830109356
+Colon,PB15,rpsL_K43R,Isogenic,Aminoglycoside resistance,1.007492588
+Colon,PB2,rpsL_K43R,Common,Aminoglycoside resistance,1.003197191
+Colon,PB4,rpsL_K43R,Isogenic,Aminoglycoside resistance,0.967359912
+Colon,PB5,rpsL_K43R,Common,Aminoglycoside resistance,1.004314933
+NA,NA,NA,NA,NA,NA
+Colon,MG1655,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.974952951
+Colon,OLC682,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.714161773
+Colon,OLC809,rpsL_K43T,Common,Aminoglycoside resistance,0.8259921
+NA,NA,NA,NA,NA,NA
+Colon,PB1,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.891988454
+Colon,PB10,rpsL_K43T,Common,Aminoglycoside resistance,0.789870625
+Colon,PB13,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.872466441
+Colon,PB15,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.838723878
+Colon,PB2,rpsL_K43T,Common,Aminoglycoside resistance,0.913403382
+Colon,PB4,rpsL_K43T,Isogenic,Aminoglycoside resistance,0.705648044
+Colon,PB5,rpsL_K43T,Common,Aminoglycoside resistance,0.820934464
+NA,NA,NA,NA,NA,NA

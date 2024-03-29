@@ -1,0 +1,13 @@
+env,statistic,value,se
+LB,mean,-0.06,0.001
+M9-Glucose,mean,-0.065,0.002
+Urine,mean,-0.092,0.005
+Colon,mean,-0.073,0.004
+LB,variance,0.0045,0.0002
+M9-Glucose,variance,0.0073,0.0005
+Urine,variance,0.0345,0.0014
+Colon,variance,0.0208,0.0027
+LB,gamma,0.598,0.02
+M9-Glucose,gamma,0.397,0.019
+Urine,gamma,0.239,0.021
+Colon,gamma,0.56,0.062

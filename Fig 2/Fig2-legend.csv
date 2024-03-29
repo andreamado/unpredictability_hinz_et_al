@@ -1,0 +1,11 @@
+xdata,ydata,Antibiotic
+0,2.25,Ciprofloxacin
+0.25,1,Ciprofloxacin
+0.5,0.5,Ciprofloxacin
+0.75,0.75,Ciprofloxacin
+1,0.25,Rifampicin
+1.25,2.25,Rifampicin
+1.5,1,Rifampicin
+1.75,0.5,Streptomycin
+0,0.75,Streptomycin
+0.25,1.25,Streptomycin
