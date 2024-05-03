@@ -1,5 +1,7 @@
 # Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in *Escherichia coli*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11111574.svg)](https://doi.org/10.5281/zenodo.11111574)
+
 This repository contains the code and data required to reproduce the figures in the article [Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in *Escherichia coli*](https://doi.org/10.1093/molbev/msae086) by [Aaron Hinz](https://orcid.org/0000-0003-4438-7043), [André Amado](https://andreamado.github.io/me/), [Rees Kassen](https://orcid.org/0000-0002-5617-4259), [Claudia Bank](https://orcid.org/0000-0003-4730-758X) and [Alex Wong](https://scholar.google.com/citations?hl=en&user=6zoyOd8AAAAJ). For details, please read our [manuscript](https://doi.org/10.1093/molbev/msae086).
 
 The repository contains two types of figures:
